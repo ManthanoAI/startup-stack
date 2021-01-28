@@ -2,10 +2,9 @@
 
 ## How to talk to users
 
- *-by Eric Migicovsky Founder of Pepple*
+ *- by Eric Migicovsky Founder of Pepple*
 
-Links
- - [Superhuman Product Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+### Notes
 
 - Good founders maintain a direct connection with their users
   - It is your job as a CEO, CTO, COO to talk to customers
@@ -46,3 +45,7 @@ Links
       - Ask your customers for their phone number during signup (direct channel to customer)
       - Don't design by committee (Don't ask users for better features)
       - Discard bad data (Compliments, Hypothetical assumptions)
+
+### Links
+ - [Superhuman Product Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+ - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
