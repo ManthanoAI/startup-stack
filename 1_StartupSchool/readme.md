@@ -110,7 +110,7 @@
 
 ### Addons
 
-  - If your customers are churing what should you focus on?
+  - If your customers are churning what should you focus on?
     - Finding out what the problem is (ask customers)
     - Solve the problem
     - Find 10 users which really love your product
