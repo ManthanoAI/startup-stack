@@ -1,6 +1,6 @@
 # Startup School Takeaways
 
-- [How to talk to users](#How20%To20%talk20%to20%users)
+- [How to talk to users](#how-to-talk-to-users)
 
 ## How to talk to users
 
@@ -53,4 +53,4 @@
  - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
 
-## 
+## How to prioritize your time
