@@ -1,6 +1,7 @@
 # Startup School Takeaways
 
 - [How to talk to users](#how-to-talk-to-users)
+- [How to prioritize your time](#how-to-prioritize-your-time)
 
 ## How to talk to users
 
