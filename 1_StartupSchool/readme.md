@@ -50,7 +50,7 @@
       - Discard bad data (Compliments, Hypothetical assumptions)
 
 ### Links
- - [Superhuman Product Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+ - [Superhuman product market fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
  - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
 
