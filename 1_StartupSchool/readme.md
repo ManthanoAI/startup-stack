@@ -1,5 +1,7 @@
 # Startup School Takeaways
 
+- [How to talk to users](#How20%To20%talk20%to20%users)
+
 ## How to talk to users
 
  *- by Eric Migicovsky Founder of Pepple*
@@ -49,3 +51,6 @@
 ### Links
  - [Superhuman Product Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
  - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
+
+
+## 
