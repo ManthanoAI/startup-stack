@@ -130,3 +130,71 @@
   ### Links
 
   - [Makers schedule](http://www.paulgraham.com/makersschedule.html)
+
+## How to pitch your startup
+
+*- by Kevin Hale Founder of Wufoo*
+
+### Notes
+
+ - A startup idea is a hypothesis which consist of three parts
+   - a Problem, a Solution and an Insight
+   - Problem: Popular, Growing, Urgent, Expensive, Mandatory, Frequent
+   - Idea should be a solution in search of a problem (SISP)
+
+ - How to communicate your idea
+   - People don't understand the importance of expressing yourself
+   - Don't sell your idea, tell them facts
+
+   - For a really good investor these questions pop up, the founder just needs to be clear
+     - Do I (as an investor) understand the idea?
+     - Am I excited by idea?
+     - Do I like the team?
+   - Make things easy to understand
+     - Make it legible (readable for everyone), make it simple, make it obvious
+
+   - Avoid
+     - Ambiguity
+     - Complexity
+     - Mystery (Jargon, Fake, Suggest)
+     - Ignorable (Marketing-speak, MBA-speak, Buzzwords)
+
+   - Conversational (No Jargon, No prolog, Reproducible)
+     - What are you making?
+     - What is the problem?
+     - Who is the customer?
+     - Examples, should clearifythe question: Should I use X for Y
+       - Airbnb is the first online marketplace that lets travelers book rooms with locals, instead of hotels
+       - Dropbox synchronizes files across your/your team's computers
+       - Lumineye is building x-ray vision for soldiers and first responders
+       - Vahan is building LinkedIn for the next billion internet users
+     - Lead with what, and not why and how
+
+    - Be concise, use as few words as possible
+    - Be aware of your noun you are using, they have the valuable information
+
+  ### Addons
+
+  - Killer tips on a demo day
+    - Simple and fundamental for all visitors
+  - An idea is a reflection of your mind
+
+  - If I have a complex problem, what should I do then?
+    - Do both? One for specific channels and one for general
+
+  - The investor needs to feel energized and wants to leave Y-Combinator :rocket:
+
+  - How and why is important but do not put them all in one place
+
+  - How do you know if a found product market fit?
+    - If you are not able to ask this question because your are so busy
+  
+  - What do you do if you have multiple stages?
+    - Start with one business
+    - Remove everything and be very efficent
+
+
+  ### Links
+
+  - [How to apply](https://www.ycombinator.com/howtoapply/)
+  - [How to design a better pitch deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
