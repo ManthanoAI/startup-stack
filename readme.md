@@ -1,8 +1,14 @@
 # Startup-stack
 
+*- This is the way* :rocket:
+
 ## No-brainer
 
 - [Innosuisse](https://www.innosuisse.ch/inno/de/home/start-and-grow-your-business/start-up-coaching.html)
+
+## Tools
+
+- [Forms and fact sheet company types](https://www.zh.ch/de/wirtschaft-arbeit/handelsregister/eintrag.html#-638296732)
 
 ## Links
 
