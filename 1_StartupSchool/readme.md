@@ -2,6 +2,7 @@
 
 - [How to talk to users](#how-to-talk-to-users)
 - [How to prioritize your time](#how-to-prioritize-your-time)
+- [How to pitch your startup](#how-to-pitch-your-startup)
 
 ## How to talk to users
 
@@ -139,7 +140,7 @@
 
  - A startup idea is a hypothesis which consist of three parts
    - a Problem, a Solution and an Insight
-   - Problem: Popular, Growing, Urgent, Expensive, Mandatory, Frequent
+   - Problem characteristics: Popular, Growing, Urgent, Expensive, Mandatory, Frequent
    - Idea should be a solution in search of a problem (SISP)
 
  - How to communicate your idea
@@ -153,17 +154,18 @@
    - Make things easy to understand
      - Make it legible (readable for everyone), make it simple, make it obvious
 
-   - Avoid
+   - Do avoid
      - Ambiguity
      - Complexity
      - Mystery (Jargon, Fake, Suggest)
      - Ignorable (Marketing-speak, MBA-speak, Buzzwords)
 
-   - Conversational (No Jargon, No prolog, Reproducible)
+   - Be Conversational (No Jargon, No prolog, Reproducible)
      - What are you making?
      - What is the problem?
      - Who is the customer?
-     - Examples, should clearifythe question: Should I use X for Y
+
+     - Examples (should clearify the question: Should I use X for Y)
        - Airbnb is the first online marketplace that lets travelers book rooms with locals, instead of hotels
        - Dropbox synchronizes files across your/your team's computers
        - Lumineye is building x-ray vision for soldiers and first responders
@@ -177,6 +179,7 @@
 
   - Killer tips on a demo day
     - Simple and fundamental for all visitors
+
   - An idea is a reflection of your mind
 
   - If I have a complex problem, what should I do then?
