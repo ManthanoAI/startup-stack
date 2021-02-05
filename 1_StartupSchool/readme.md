@@ -3,8 +3,9 @@
 - [How to talk to users](#how-to-talk-to-users)
 - [How to prioritize your time](#how-to-prioritize-your-time)
 - [How to pitch your startup](#how-to-pitch-your-startup)
+- [How to plan an MVP](#how-to-plan-an-mvp)
 
-## How to talk to users
+# How to talk to users
 
  *- by Eric Migicovsky Founder of Pepple*
 
@@ -55,7 +56,7 @@
  - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
 
-## How to prioritize your time
+# How to prioritize your time
 
 *- by Adora Cheung Founder of Homejoy*
 
@@ -132,7 +133,7 @@
 
   - [Makers schedule](http://www.paulgraham.com/makersschedule.html)
 
-## How to pitch your startup
+# How to pitch your startup
 
 *- by Kevin Hale Founder of Wufoo*
 
@@ -201,3 +202,50 @@
 
   - [How to apply](https://www.ycombinator.com/howtoapply/)
   - [How to design a better pitch deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
+
+
+# How to plan an MVP
+
+ *- by Michael Seibel CEO of Y-Combinator*
+
+ ### Notes
+
+ - Launch quickly
+ - Get initial customers
+ - Talk to customers and get feedback
+ - Iterate (improve the product)
+
+ - Lean MVP (in most cases)
+  - Very fast to build (weeks not months)
+  - Very limited functionality
+  - Appeal to small set of users and highest order of problems
+  - Base to iterate from (just start)
+
+ - Heavy MVP
+  - Insurance or Banking Industry
+  - Hardtech (Rockets)
+  - Biotech
+  - Moonshot (Hyperloop)
+
+ - Launch is absolutelly not special
+ - Get any customers is the main goal
+ - Put the thing in front of the customer
+
+ - Hacks for building an MVP quickly
+  - Time box your spec
+  - Write your spec
+  - Cut your spec (It is okay)
+  - Don't fall in love with your MVP
+
+ - It might turn out that the full thing you want to build is not actually that awesome
+ - Question yourself: does your product has direct users
+
+ ### Addons
+
+ - Never ask your customers for features
+ - MVP should not be perfect, it just should work
+ - Ask your users: does it solve your problem
+ - Solve the problems right in front of you
+ - If you don't know someone with the problem, leave it
+ - How do I find product market fit --> If you're asking you don't have it
+ - Ask your initial customer about other customers with the same problem
