@@ -216,26 +216,26 @@
  - Iterate (improve the product)
 
  - Lean MVP (in most cases)
-  - Very fast to build (weeks not months)
-  - Very limited functionality
-  - Appeal to small set of users and highest order of problems
-  - Base to iterate from (just start)
+   - Very fast to build (weeks not months)
+   - Very limited functionality
+   - Appeal to small set of users and highest order of problems
+   - Base to iterate from (just start)
 
  - Heavy MVP
-  - Insurance or Banking Industry
-  - Hardtech (Rockets)
-  - Biotech
-  - Moonshot (Hyperloop)
+   - Insurance or Banking Industry
+   - Hardtech (Rockets)
+   - Biotech
+   - Moonshot (Hyperloop)
 
  - Launch is absolutelly not special
  - Get any customers is the main goal
  - Put the thing in front of the customer
 
  - Hacks for building an MVP quickly
-  - Time box your spec
-  - Write your spec
-  - Cut your spec (It is okay)
-  - Don't fall in love with your MVP
+   - Time box your spec
+   - Write your spec
+   - Cut your spec (It is okay)
+   - Don't fall in love with your MVP
 
  - It might turn out that the full thing you want to build is not actually that awesome
  - Question yourself: does your product has direct users
