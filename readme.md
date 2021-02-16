@@ -17,10 +17,10 @@
 - [How to spin of your scientific research out of a university](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)
 - [12 things about product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
-### Technical
-- [Machine Learning - More data or better algorithms](https://www.kdnuggets.com/2015/06/machine-learning-more-data-better-algorithms.html)
+### Investor relations
+- [For ICT companies: SICTIC](https://www.sictic.ch/) 
 
-## Usefull Platforms
+## Usefull platforms
 
 - [Startupschool Y-Combinator](https://www.startupschool.org/)
 - [Lunchclub](https://lunchclub.ai/)
